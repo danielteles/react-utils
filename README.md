@@ -6,8 +6,8 @@
 ## Maps
 * [Map component for iOS and Android](https://github.com/react-community/react-native-maps)
 ## Navigation
-* Fluid transitions for react navigation - [xFluidTransitions](https://github.com/fram-x/FluidTransitions)
 * [React navigation](https://reactnavigation.org/)
+  * Fluid transitions for react navigation - [xFluidTransitions](https://github.com/fram-x/FluidTransitions)
 * [React-native Navigation](https://wix.github.io/react-native-navigation/#/)
 # React
 ## UI
