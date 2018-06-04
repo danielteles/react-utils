@@ -10,6 +10,14 @@
 * [React navigation](https://reactnavigation.org/)
 * [React-native Navigation](https://wix.github.io/react-native-navigation/#/)
 # React
+## UI
+* [Material-UI](https://material-ui-next.com/)
+## Maps
+* [Google Maps component](https://github.com/fullstackreact/google-maps-react)
+## Navigation
+* [React router](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+## General
+* [Gerador e validador de CPF](https://tiagoporto.github.io/gerador-validador-cpf/)
 # Debugging
 * [LogRocket](https://logrocket.com/)
 * [Reactotron](https://github.com/infinitered/reactotron)
