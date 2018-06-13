@@ -3,6 +3,8 @@
 * [React-native Elements](https://react-native-training.github.io/react-native-elements/)
 * [React-native Paper](https://callstack.github.io/react-native-paper/index.html)
 * [Shoutem](https://shoutem.github.io/docs/ui-toolkit/introduction)
+### Standalone UI components
+* [Modal](https://github.com/react-native-community/react-native-modal)
 ## Maps
 * [Map component for iOS and Android](https://github.com/react-community/react-native-maps)
 ## Navigation
